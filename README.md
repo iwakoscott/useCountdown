@@ -1,2 +1,0 @@
-# useCountdown
-Created with CodeSandbox
